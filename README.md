@@ -4,29 +4,29 @@ Working List of Resources to Help Students
 
 ## Git 
 
-### Git Overview
 Git is an open source command line tool that allows software developers to perform version control and collaborate with other developers. Think Google Docs for software developers. You'll need a basic understanding of how your file systems is organized (directories and files) and basic navigation on your terminal. 
 
 Using git at first will seem foreign, but with repeated practice it will become more natural and you'll see the benefits of it. The more you use it, the better you'll get at it. While you are learning, run the command ```git status``` after every git command to see the state of your repository. The messages back generally will point you in the direction of what you need to do next. 
 
-<details><summary><b>Installing Git</b></summary>
+<details><summary><b>Installing Git on MacOs</b></summary>
       
-#### Mac Instructions
 Mac computers often come with git pre-installed. 
 
-Open the Terminal application and run the command: “git --version”. 
+To check if that's the case, open the Terminal application and run the command: ```git --version```. 
 
 If you have it installed, it will respond with the version number you have. Otherwise, it will say something to the effect of, “command not found”.
 
-In that case, follow the installation instructions here: https://git-scm.com/download/mac
+If you need to install it, follow the installation instructions here: https://git-scm.com/download/mac
 
 I recommend using the homebrew package manager to install git. Take a few minutes and follow the link to read about homebrew and get it installed if you don’t have it already. 
 
-#### Windows Instructions
-https://git-scm.com/download/win
-You can accept all the default options when installing git, they can be changed later if needed. 
- </details>
- 
+</details>
+
+<details><summary><b>Installing Git on Windows</b></summary>
+Windows typically doesn not have git preinstalled. You can follow the Windows installation instructions here: https://git-scm.com/download/win
+Note that during the installation process you will be prompted to answer a series of configuration questions. If you aren't sure what the options are, it's generally safe to accept the default settings. They can be changed later if needed. 
+</details>
+
 <details><summary><b>Git quick reference</b></summary>
   
   
@@ -85,8 +85,6 @@ It's also a really good idea to change your default git configuration to always 
 
 ## Github
 
-### Github Overview
-
 Github is a popular platform for developers to host software projects and adds a ton of additional functionality on top of git. 
 
 The [Github Hello World Tutorial](https://docs.github.com/en/get-started/quickstart/hello-world) is a good first exercise to help you get familiar with GitHub. 
@@ -102,3 +100,9 @@ The [Github Hello World Tutorial](https://docs.github.com/en/get-started/quickst
 [Questions to Ask During an Interview](https://github.com/blentz100/Questions-to-Ask-During-an-Interview)
 
 ## Coding Challenges
+
+Codewars has good beginner level challenges for Javascript. 
+
+Freecode camp has good basic level mini tutorials for Front End Development concepts. 
+
+Leetcode has some more advanced level coding challenges. 
