@@ -97,6 +97,8 @@ The [Github Hello World Tutorial](https://docs.github.com/en/get-started/quickst
 
 [Github Markdown Preview Tool](https://markdown-it.github.io/)
 
+[How To: Fork a GitHub Repository & Submit a Pull Request](https://jarv.is/notes/how-to-pull-request-fork-github/)
+
 ## Interview Preparation
 
 [Interview Questions](https://github.com/blentz100/Interview-Questions)
