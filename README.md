@@ -99,6 +99,8 @@ The [Github Hello World Tutorial](https://docs.github.com/en/get-started/quickst
 
 [How To: Fork a GitHub Repository & Submit a Pull Request](https://jarv.is/notes/how-to-pull-request-fork-github/)
 
+[How to make your first pull request on GitHub](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/)
+
 ## Interview Preparation
 
 [Interview Questions](https://github.com/blentz100/Interview-Questions)
