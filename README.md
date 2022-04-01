@@ -32,6 +32,8 @@ Note that during the installation process you will be prompted to answer a serie
   
 Use these commands as a reference when you are first connecting a git repository on your local computer to a remote repository on your Github.com account
 
+Pro-Tip - you can copy and paste this whole block of code as one chunk to save time. 
+
 ```console echo "# github-cheatsheet" >> README.md
 
 git init
@@ -42,7 +44,7 @@ git commit -m "first commit"
 
 git branch -M main
 
-git remote add origin https://github.com/blentz100/github-cheatsheet.git
+git remote add origin https://github.com/YourGitHubUserName/YourGitHubRepoName
 
 git push -u origin main
 ```
